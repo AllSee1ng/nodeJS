@@ -8,5 +8,7 @@
     },
     "author": "All_See1ng",
     "license": "ISC",
-    "dependencies": {}
+    "dependencies": {
+        "colors": "^1.4.0"
+    }
 }
