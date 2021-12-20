@@ -8,5 +8,7 @@
     },
     "author": "All_See1ng",
     "license": "ISC",
-    "dependencies": {}
+    "dependencies": {
+        "process": "^0.11.10"
+    }
 }
