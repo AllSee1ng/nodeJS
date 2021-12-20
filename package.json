@@ -8,5 +8,8 @@
     },
     "author": "All_See1ng",
     "license": "ISC",
-    "dependencies": {}
+    "dependencies": {
+        "date-fns": "^2.27.0",
+        "process": "^0.11.10"
+    }
 }
